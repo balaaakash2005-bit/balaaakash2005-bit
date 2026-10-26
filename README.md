@@ -40,8 +40,6 @@
 ### 🔗 Connect With Me
 <p align="left">
   <a href="www.linkedin.com/in/bala-subramanian-b-"</a>
-
-" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mail to:balaaakash2005@gmail.com">
