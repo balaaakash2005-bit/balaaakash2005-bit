@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala Subramanian B</h1>
-<h3 align="center">Python & Web Developer | CodTech Intern</h3>
+<h3 align="center">Python & Web Developer </h3>
 
 ---
 
