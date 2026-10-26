@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on **Scan2Order** — a QR-based food ordering app
 - 🌱 I'm currently learning **Python & Web Development**
 - 👨‍💻 Doing my internship at **CodTech** — building Python projects
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **balaaakash2005@gmail.com**
 
 ---
 
