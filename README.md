@@ -39,12 +39,12 @@
 
 ### 🔗 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/bala-subramanian-b-</a>
+  <a href="www.linkedin.com/in/bala-subramanian-b-"</a>
 
 " target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mail to:balaaakash2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
